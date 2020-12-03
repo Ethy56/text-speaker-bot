@@ -529,5 +529,4 @@ if (msg.channel.id == db.get('ushere_' + msg.guild.id + '.channel')) {
             }
     }
 });
-let brehbreh = "NzI4MDE5NDk0MDE4MDg5MDAw.Xv0S_Q.bqesEnoVXwibZ1sBbhu7O54rrSY";
-bot.login(brehbreh)
+bot.login("token")
